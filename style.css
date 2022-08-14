@@ -19,25 +19,25 @@ li:nth-child(1){
 li:nth-child(2){
     position: relative;
     margin-left: 300px;
-    margin-top: -34px;
+    margin-top: -33px;
 }
 
 li:nth-child(3){
     position: relative;
     margin-left: 400px;
-    margin-top: -34px;
+    margin-top: -33px;
 }
 
 li:nth-child(4){
     position: relative;
-    margin-left: 500px;
-    margin-top: -34px;
+    margin-left: 520px;
+    margin-top: -33px;
 }
 
 li:nth-child(5){
     position: relative;
-    margin-left: 600px;
-    margin-top: -34px;
+    margin-left: 630px;
+    margin-top: -33px;
 }
 
 .nav-button{
@@ -49,6 +49,7 @@ li:nth-child(5){
     color: white;
     width: 125px;
     height: 40px;
+    border-style:solid;
     border-radius: 10px;
 }
 
